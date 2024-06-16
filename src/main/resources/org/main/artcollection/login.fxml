@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="534.0" prefWidth="458.0" style="-fx-background-color: #272929;" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.main.artcollection.LoginController">
+   <center>
+      <Pane prefHeight="11.0" prefWidth="7.0" BorderPane.alignment="CENTER">
+         <children>
+            <TextField fx:id="nameField" layoutX="84.0" layoutY="113.0" prefHeight="51.0" prefWidth="291.0" promptText="Username" style="-fx-background-color: #5c5c64;">
+               <font>
+                  <Font size="17.0" />
+               </font></TextField>
+
+             <TextField fx:id="passwordField" layoutX="83.0" layoutY="177.0" prefHeight="51.0" prefWidth="291.0" promptText="Password" style="-fx-background-color: #5c5c64;">
+                 <font>
+                     <Font size="17.0" />
+                 </font></TextField>
+
+            <Button fx:id="loginButton" layoutX="122.0" layoutY="296.0" mnemonicParsing="false" onAction="#loginAction" prefHeight="30.0" prefWidth="215.0" style="-fx-background-color: #ccc9c6;" text="LOGIN" textFill="#2c2a2a">
+               <font>
+                  <Font name="Calibri" size="15.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor></Button>
+
+             <Button fx:id="regButton" layoutX="121.0" layoutY="340.0" mnemonicParsing="false" onAction="#registerAction" prefHeight="30.0" prefWidth="215.0" style="-fx-background-color: #849a88;" text="REGISTER" textFill="#2c2a2a">
+                 <font>
+                     <Font name="Calibri" size="15.0" />
+                 </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor></Button>
+         </children>
+      </Pane>
+   </center>
+   <top>
+      <HBox alignment="TOP_RIGHT" prefHeight="37.0" prefWidth="458.0" BorderPane.alignment="CENTER">
+         <children>
+            <Button fx:id="closeButton" contentDisplay="CENTER" mnemonicParsing="false" onAction="#closeAction" prefHeight="28.0" prefWidth="27.0" style="-fx-background-color: #333434;" styleClass="closeButton" text="X" textFill="WHITE">
+               <HBox.margin>
+                  <Insets right="10.0" top="10.0" />
+               </HBox.margin>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor></Button>
+         </children>
+      </HBox>
+   </top>
+   <bottom>
+      <Label fx:id="errorLabel" prefHeight="57.0" textFill="RED" BorderPane.alignment="CENTER">
+         <font>
+            <Font name="Calibri Bold" size="15.0" />
+         </font>
+      </Label>
+   </bottom>
+</BorderPane>

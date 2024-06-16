@@ -1,0 +1,131 @@
+
+“	java:S117á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨í(8£İ…‚2J$a057e7d6-3169-49a6-ab61-467c4cac0d6e
+”	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê ß8£İ…‚2J$1bd61e9a-cfca-4257-8136-34538eed9a77
+™	java:S117Œ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ş¼Š‘ùÿÿÿÿ8£İ…‚2J$6550d88c-81dc-4f08-8306-7aed9c39ab12
+™	java:S117É"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûÜúôÿÿÿÿÿ8£İ…‚2J$5ed28ec3-1b77-4ed8-9b10-debcb9f3115f
+™	java:S117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ³°€øÿÿÿÿ8£İ…‚2J$ea0227ad-7a5d-4b59-8d7a-247ddcb562dd
+™	java:S117ù"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(«£‡•ùÿÿÿÿ8£İ…‚2J$9a6edea5-03e5-44d2-b541-0c26a615ad6d
+”	java:S117ú"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚Ï¿„8£İ…‚2J$802f4830-47ed-4ca7-bd6b-3e04c33454c0
+™	java:S117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æ ±ºıÿÿÿÿ8£İ…‚2J$5ada4ad7-9d32-4d58-8f27-63b37a5a606c
+¡	java:S135Œ"YReduce the total number of break and continue statements in this loop to use at most one.(ÅöÖûÿÿÿÿ8£İ…‚2J$573e20ea-350b-48fa-8b2b-bde5e52a70bb
+¡	java:S135Ã"YReduce the total number of break and continue statements in this loop to use at most one.(ú²õ«üÿÿÿÿ8£İ…‚2J$ecfb3a6d-ef5d-4b16-9e17-2f3592118137
+
+java:S1192¤"FDefine a constant instead of duplicating this literal "UTF-8" 3 times.(‚şÿéüÿÿÿÿ8£İ…‚2J$1f6b35b1-ba35-4fcc-995a-e118605dfaeb
+	java:S116ö"LRename this field "P" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(º²ıâ8£İ…‚2J$58ae8dbd-b4cf-476b-8480-4e7bd6b18754
+	java:S116÷"LRename this field "S" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…â•¦8£İ…‚2J$99394064-ee40-4cd9-b6af-742c4626b0a0
+£
+java:S1149†"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡•î8£İ…‚2J$fec754b5-79a5-4570-bf1b-74909fa84968
+£
+java:S1149»"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡•î8£İ…‚2J$060d5157-09c3-4092-b556-fccba00cb240
+£
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡•î8£İ…‚2J$06e6f6bb-52b1-4cfb-bbe4-fdda2cd32292
+£
+java:S1149Ê"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(‡•î8£İ…‚2J$7bcbdd8a-51a0-4f2b-a574-0d48260abaee
+m
+java:S1197H"*Move the array designators [] to the type.(¯ÚİÎ8£İ…‚2J$a3dcb9bc-6a07-4adc-a335-ae51693490b8
+m
+java:S1197O"*Move the array designators [] to the type.(Şú¾—8£İ…‚2J$b9754054-8d8f-4831-987f-59ba24f36c37
+n
+java:S1197Õ"*Move the array designators [] to the type.(¬Ì’8£İ…‚2J$f8d55bd8-bb74-4872-ad00-56dfbc7ce4b9
+‰
+java:S1124Õ"EReorder the modifiers to comply with the Java Language Specification.(¬Ì’8£İ…‚2J$8fdfa524-4618-4dd9-bd4d-a032e8e6e124
+n
+java:S1197Û"*Move the array designators [] to the type.(Åşõ·8£İ…‚2J$f1a53394-53b1-4719-9588-d65fc40e2283
+‰
+java:S1124Û"EReorder the modifiers to comply with the Java Language Specification.(Åşõ·8¤İ…‚2J$21100d7c-6d43-4874-a341-8aaa927dbce3
+s
+java:S1197å"*Move the array designators [] to the type.(¬ùÿĞşÿÿÿÿ8¤İ…‚2J$5e3c05fc-fa46-4a55-b327-347f52807310
+
+java:S1124å"EReorder the modifiers to comply with the Java Language Specification.(¬ùÿĞşÿÿÿÿ8¤İ…‚2J$cd2a9819-3d45-4711-99d4-1df5c46f79bf
+n
+java:S1197ö"*Move the array designators [] to the type.(º²ıâ8¤İ…‚2J$a5dc7fb9-3a8a-429c-97ea-f3ae46d5ce86
+n
+java:S1197÷"*Move the array designators [] to the type.(…â•¦8¤İ…‚2J$293cf1b0-2eec-4ead-a9ca-c5aa6a097663
+–	java:S100ƒ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’¨ÿÉûÿÿÿÿ8¤İ…‚2J$9230e21d-96b6-49f9-8cfb-f462f1bb68d7
+s
+java:S1197ƒ"*Move the array designators [] to the type.(’¨ÿÉûÿÿÿÿ8¤İ…‚2J$bd40b222-e0f8-4fa3-a914-2b99148226e3
+i
+java:S1659‡" Declare "c2" on a separate line.(Şİ¸üÿÿÿÿ8¤İ…‚2J$bbc385da-d098-4d9e-9968-ec8f11feee0f
+j
+java:S1905«"&Remove this unnecessary cast to "int".(ˆğ ß8¤İ…‚2J$1a8edae2-6314-41f2-8e01-2157025e6273
+j
+java:S1905«"&Remove this unnecessary cast to "int".(ˆğ ß8¤İ…‚2J$f20c9a40-8330-4ab9-b139-db6f3240340b
+o
+java:S1905­"&Remove this unnecessary cast to "int".(»çšÆûÿÿÿÿ8¤İ…‚2J$29943b51-6727-4387-956f-f1961a0e9d78
+–	java:S100¹"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼Ô©”üÿÿÿÿ8¤İ…‚2J$91338d59-ee40-48da-9449-0538730c5676
+…
+java:S1659¼"ADeclare "slen" and all following declarations on a separate line.(†Î¡Ã8¤İ…‚2J$a3cc9e15-8081-4313-9d3a-820120820311
+ˆ
+java:S1659¾"?Declare "c2" and all following declarations on a separate line.(ÀßçÖùÿÿÿÿ8¤İ…‚2J$559a628a-a359-46c1-82e8-2a86c4de41f8
+s
+java:S1197½"*Move the array designators [] to the type.(øàü÷şÿÿÿÿ8¤İ…‚2J$ca2aff6d-b656-4a96-989b-5b0aa9f7a3e1
+m
+java:S1197è"*Move the array designators [] to the type.(¨Å¥i8¤İ…‚2J$bc0c9c78-bd55-4caf-a70d-54251495186a
+‚
+java:S1659é">Declare "n" and all following declarations on a separate line.(¹È’¡8¤İ…‚2J$f50c89b8-24d5-491d-9b26-0cb746747ee8
+s
+java:S1197†"*Move the array designators [] to the type.(Ó¡«õüÿÿÿÿ8¤İ…‚2J$89db1b16-2e49-4440-bef8-d3b3910a57dd
+s
+java:S1197†"*Move the array designators [] to the type.(Ó¡«õüÿÿÿÿ8¤İ…‚2J$8ba79880-ec91-4bda-b8f4-5b4a4d2e4c7d
+–	java:S100—"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(²êıÖÿÿÿÿÿ8¤İ…‚2J$c7d9b097-2ba2-458c-abd8-1c92db906323
+l
+java:S1905˜"(Remove this unnecessary cast to "int[]".(‚·é8¤İ…‚2J$7583a4f5-03fb-472e-8901-dcaf38415ebe
+l
+java:S1905™"(Remove this unnecessary cast to "int[]".(û¯²8¤İ…‚2J$2d69c0f5-882c-4e20-92ec-6185b176d716
+s
+java:S1197 "*Move the array designators [] to the type.(ÆÇŠÑùÿÿÿÿ8¤İ…‚2J$27231eda-6116-40c1-96c4-c4d2b1aef9c9
+k
+java:S1659¤""Declare "slen" on a separate line.(‹ŒÎşÿÿÿÿ8¤İ…‚2J$a05b1839-9009-42ed-9cf1-56f1902a08a3
+s
+java:S1197¢"*Move the array designators [] to the type.(å’Üÿÿÿÿÿ8¤İ…‚2J$e8933514-6c09-4bb9-890f-17249ba26700
+n
+java:S1197£"*Move the array designators [] to the type.(«÷×8¤İ…‚2J$7959a7ef-0a8f-457f-9a78-8ade01023fc9
+n
+java:S1197½"*Move the array designators [] to the type.(“•á€8¤İ…‚2J$c2d4b148-ff46-423e-8eb5-224cf4914e33
+n
+java:S1197½"*Move the array designators [] to the type.(“•á€8¤İ…‚2J$119b8b98-6384-4301-939a-7383099fd86f
+g
+java:S1659¿"#Declare "doffp" on a separate line.(›Ï¡«8¤İ…‚2J$fc21cb7b-2e10-40c0-86a0-6f4070182edc
+k
+java:S1659Á""Declare "slen" on a separate line.(‹ŒÎşÿÿÿÿ8¤İ…‚2J$d79fd67d-0ec8-4c14-90df-4d185d9d16d1
+n
+java:S1197¿"*Move the array designators [] to the type.(›Ï¡«8¤İ…‚2J$c55ab75f-12db-4aa9-b347-7a42484c9251
+n
+java:S1197¿"*Move the array designators [] to the type.(›Ï¡«8¤İ…‚2J$4e32d34c-a58c-4356-8953-fbd923481e30
+n
+java:S1197À"*Move the array designators [] to the type.(«÷×8¥İ…‚2J$c1fb31ae-e0b7-4e7f-8666-ae5b52531e41
+	java:S100á"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“¨í(8¥İ…‚2J$ce2adbf0-908b-434a-ace2-d1415f9c5800
+m
+java:S1197á"*Move the array designators [] to the type.(“¨í(8¥İ…‚2J$fa460cb3-15d2-4695-9ce4-939af9791edb
+m
+java:S1197á"*Move the array designators [] to the type.(“¨í(8¥İ…‚2J$28d819c2-4d89-4274-bbdc-22c433b74905
+n
+java:S1197â"*Move the array designators [] to the type.(ë»Âµ8¥İ…‚2J$dfd7a624-6b86-4a9c-ae3e-fcdcc72b6e1c
+‚
+java:S1659ã">Declare "i" and all following declarations on a separate line.(šÖıÿ8¥İ…‚2J$88c61ab0-b132-4fa9-bb03-084f7ec9e576
+s
+java:S1197å"*Move the array designators [] to the type.(øàü÷şÿÿÿÿ8¥İ…‚2J$6bf99183-d602-43ee-aec0-1fcf5b1c85b2
+†
+java:S1659"BDeclare "saltb" and all following declarations on a separate line.(½Ë¦Œ8¥İ…‚2J$21b466ca-5d33-4601-a68b-81b7d22e0fe1
+j
+java:S1659"!Declare "off" on a separate line.(š¾ŒÄøÿÿÿÿ8¥İ…‚2J$151b3c47-4f45-4ec3-952c-cad4125295b0
+n
+java:S1197"*Move the array designators [] to the type.(½Ë¦Œ8¥İ…‚2J$ad9e7096-2f46-41fb-b4b4-c0116eb8bbf9
+n
+java:S1197"*Move the array designators [] to the type.(½Ë¦Œ8¥İ…‚2J$79d41e8e-b908-4add-858a-40cec5c1f56c
+n
+java:S1197"*Move the array designators [] to the type.(½Ë¦Œ8¥İ…‚2J$55a1f7fa-c32c-40bf-b35a-b0d0ea108d94
+‚
+java:S4719¤"9Replace charset name argument with StandardCharsets.UTF_8(‚şÿéüÿÿÿÿ8¥İ…‚2J$58e53bec-e920-463a-a20d-64bf06cae8c5
+q
+java:S1905­"(Remove this unnecessary cast to "int[]".(›ÑÛÇıÿÿÿÿ8¥İ…‚2J$dff2c7a3-58de-4b3e-93cc-c5adf9cff85f
+s
+java:S1197Ë"*Move the array designators [] to the type.(«¿±”ÿÿÿÿÿ8¥İ…‚2J$ae6e9cfa-c983-47a2-854c-03b69f2da627
+s
+java:S1197ù"*Move the array designators [] to the type.(«£‡•ùÿÿÿÿ8¥İ…‚2J$8748276d-4e0f-403c-8354-2a28ab997a8a
+n
+java:S1197ú"*Move the array designators [] to the type.(‚Ï¿„8¥İ…‚2J$5bd11410-10b5-4091-b32b-c867df504077
+‚
+java:S4719ı"9Replace charset name argument with StandardCharsets.UTF_8(†è‚™ùÿÿÿÿ8¥İ…‚2J$de3a834d-2b56-4e06-9ae2-9cd940a8a62f
+}
+java:S4719ş"9Replace charset name argument with StandardCharsets.UTF_8(Óœé—8¥İ…‚2J$2cd97342-aefe-4f6a-8268-c165f4a8c99d

@@ -1,0 +1,12 @@
+
+”
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ÉÍÅĞÿÿÿÿÿ8¯°‡Š‚2J$beea076b-d4a6-4564-aef0-9cefa054c20f
+
+java:S2095%"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(áéÎ˜8¯°‡Š‚2J$9a234a9e-60fd-4c34-9938-176dcf08ba02
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(áéÎ˜8¯°‡Š‚2J$85b1dc22-cd62-40b0-96f7-46513529cdfa
+}
+java:S1118	":Add a private constructor to hide the implicit public one.(Û¶£÷8ˆê‘…‚2J$16c200ca-6048-4c02-b0e3-c7f02bb9e52b
+‰	java:S899"BDo something with the "boolean" value returned by "createNewFile".(áø°ãÿÿÿÿÿ8¦›ˆŠ‚2J$7bdeabcb-43a4-414d-8f58-aa677158325e
+‰	java:S899"BDo something with the "boolean" value returned by "createNewFile".(áø°ãÿÿÿÿÿ8ßÈˆŠ‚2J$02927f92-e927-41fa-86f0-76a85958a9c5
+‰	java:S899$"BDo something with the "boolean" value returned by "createNewFile".(áø°ãÿÿÿÿÿ8áÈˆŠ‚2J$da2cec62-09ef-43cd-b961-e3580f5167b6

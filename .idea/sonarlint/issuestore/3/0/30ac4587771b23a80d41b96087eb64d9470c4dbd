@@ -1,0 +1,15 @@
+
+Ÿ
+java:S1104	"WMake currentUser a static final constant or non-public and provide accessors if needed.(˜ˆí€úÿÿÿÿ8½£ó…‚2J$f0804434-b56a-4eff-978c-57bdee2cb560
+y
+java:S1444	"1Make this "public static currentUser" field final(˜ˆí€úÿÿÿÿ8½£ó…‚2J$826dd6d7-4256-4925-b2b5-e5eb7a6d577e
+
+java:S2095%"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(áéÎ˜8½£ó…‚2J$9b9d60d7-69c8-4678-ae68-53e150573989
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(áéÎ˜8½£ó…‚2J$30a00e76-69c2-4a91-9b78-86285b70efaf
+‚
+java:S1118":Add a private constructor to hide the implicit public one.(èºıìÿÿÿÿÿ8½£ó…‚2J$acf0026d-b8ff-4f7d-b152-ffe7ca2a1139
+‰	java:S899"BDo something with the "boolean" value returned by "createNewFile".(áø°ãÿÿÿÿÿ8ó½ô…‚2J$6b2ecf7e-42bc-4756-84f6-954af157fbe0
+‰	java:S899"BDo something with the "boolean" value returned by "createNewFile".(áø°ãÿÿÿÿÿ8ø­õ…‚2J$4ef1767c-e5c7-444d-a660-af6b9543a168
+‰	java:S899$"BDo something with the "boolean" value returned by "createNewFile".(áø°ãÿÿÿÿÿ8¯øú…‚2J$7a87fad5-2e77-4de8-82ea-c556ad0582fd
+k	java:S1089")Either remove or fill this block of code.(ï­£Ä8½£ó…‚2J$d9ba5888-d4df-448b-871e-ef033c9858c9

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<TabPane id="mainTabPanel" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" styleClass="f" stylesheets="styles.css" tabClosingPolicy="UNAVAILABLE" xmlns="http://javafx.com/javafx/17.0.2-ea" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.main.artcollection.MainController">
+
+  <Tab closable="false" text="View">
+    <content>
+      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: #272929;">
+        <children>
+          <Button fx:id="closeButton" layoutX="562.0" layoutY="14.0" mnemonicParsing="false" onAction="#closeAction" prefHeight="28.0" prefWidth="27.0" style="-fx-background-color: #333434;" text="X" textFill="WHITE">
+                  <cursor>
+                     <Cursor fx:constant="HAND" />
+                  </cursor></Button>
+               <ChoiceBox fx:id="selectionList" layoutX="14.0" layoutY="16.0" prefWidth="150.0" />
+               <ImageView fx:id="imageView" fitHeight="256.0" fitWidth="304.0" layoutX="14.0" layoutY="50.0" pickOnBounds="true" preserveRatio="true" />
+               <Label fx:id="titleView" alignment="CENTER" contentDisplay="CENTER" layoutX="403.0" layoutY="50.0" prefHeight="34.0" prefWidth="109.0" style="-fx-background-color: #333434;" text="Title" textAlignment="CENTER" textFill="WHITE" />
+            <Label fx:id="authorView" alignment="CENTER" contentDisplay="CENTER" layoutX="403.0" layoutY="92.0" prefHeight="34.0" prefWidth="109.0" style="-fx-background-color: #333434;" text="Author" textAlignment="CENTER" textFill="WHITE" />
+            <Label fx:id="descriptionView" alignment="CENTER" contentDisplay="CENTER" layoutX="339.0" layoutY="134.0" prefHeight="89.0" prefWidth="237.0" style="-fx-background-color: #333434;" text="Description" textAlignment="CENTER" textFill="WHITE" />
+            <Label fx:id="yearView" alignment="CENTER" contentDisplay="CENTER" layoutX="403.0" layoutY="232.0" prefHeight="34.0" prefWidth="109.0" style="-fx-background-color: #333434;" text="Year" textAlignment="CENTER" textFill="WHITE" />
+
+        </children>
+      </AnchorPane>
+    </content>
+  </Tab>
+  <Tab closable="false" text="Add">
+    <content>
+      <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0" style="-fx-background-color: #272929;">
+            <children>
+               <Button fx:id="closeButton2" layoutX="562.0" layoutY="14.0" mnemonicParsing="false" onAction="#closeAction" prefHeight="28.0" prefWidth="27.0" style="-fx-background-color: #333434;" text="X" textFill="WHITE" AnchorPane.topAnchor="14.0">
+                  <cursor>
+                     <Cursor fx:constant="HAND" />
+                  </cursor></Button>
+               <Button fx:id="addButton" layoutX="475.0" layoutY="328.0" mnemonicParsing="false" onAction="#addArtPiece" prefHeight="29.0" prefWidth="101.0" style="-fx-background-color: #333434;" text="Add" textFill="WHITE">
+                  <cursor>
+                     <Cursor fx:constant="HAND" />
+                  </cursor></Button>
+               <TextField fx:id="titleField" layoutX="14.0" layoutY="30.0" promptText="Title" style="-fx-background-color: #5c5c64;" />
+                <TextField fx:id="authorField" layoutX="14.0" layoutY="173.0" promptText="Author" style="-fx-background-color: #5c5c64;" AnchorPane.topAnchor="170.0" />
+                <TextField fx:id="yearField" layoutX="14.0" layoutY="208.0" promptText="Year" style="-fx-background-color: #5c5c64;" AnchorPane.topAnchor="202.0" />
+               <TextArea fx:id="descriptionField" layoutX="14.0" layoutY="61.0" prefHeight="101.0" prefWidth="264.0" promptText="Desciption" style="-fx-border-color: #5c5c64; -fx-control-inner-background: #5c5c64; -fx-control: 0;" />
+                <TextField fx:id="imageSelector" editable="false" layoutX="14.0" layoutY="236.0" onMouseClicked="#selectImage" promptText="Click to select image" style="-fx-background-color: #5c5c64;" AnchorPane.topAnchor="234.0">
+                  <cursor>
+                     <Cursor fx:constant="HAND" />
+                  </cursor></TextField>
+               <Label fx:id="errorLabel" layoutX="14.0" layoutY="307.0" textFill="RED">
+                  <font>
+                     <Font name="System Bold" size="15.0" />
+                  </font>
+               </Label>
+            </children></AnchorPane>
+    </content>
+  </Tab>
+</TabPane>

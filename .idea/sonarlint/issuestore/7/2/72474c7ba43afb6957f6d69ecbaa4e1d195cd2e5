@@ -1,0 +1,17 @@
+
+É
+java:S1186W"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÍËÛşÿÿÿÿ8ì±ÉŒ‚2J$69069720-a846-4b3b-974d-1861d6e15f6d
+t
+java:S1144W",Remove this unused private "showArt" method.(ÍËÛşÿÿÿÿ8î±ÉŒ‚2J$45bbe36b-1826-4b66-80da-6a0c45770e55
+p	java:S108N")Either remove or fill this block of code.(ñ“Š±üÿÿÿÿ8ó±ÉŒ‚2J$4a5ce42d-f2b8-499a-a58d-1c76b0561aef
+w
+java:S1172W"/Remove this unused method parameter "artPiece".(ÍËÛşÿÿÿÿ8ò±ÉŒ‚2J$ce94e863-6b71-441f-a900-983861da2882
+k	java:S108`")Either remove or fill this block of code.(Ãôş•8íòÖŒ‚2J$6daf9614-c99e-4db0-a2de-a6334b474286
+{
+java:S1128"3Remove this unused import 'javafx.fxml.FXMLLoader'.(À‡ô³úÿÿÿÿ8ÑÊŒ‚2J$c71b21a7-36cf-4a06-b109-71f84144e88e
+r
+java:S1128"/Remove this unused import 'javafx.scene.Scene'.(Õü²8ÑÊŒ‚2J$dae094cd-a639-42c3-bd1d-cb15b83d3735
+Œ
+java:S1128"IRemove this unused import 'org.main.artcollection.services.UserMananger'.(·¶ÃÉ8ÑÊŒ‚2J$4a3e88d6-1e6b-40d6-9001-c76675d8594a
+€
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8ÑÊŒ‚2J$097b72d9-f728-4de0-ac99-4baa7914277a
